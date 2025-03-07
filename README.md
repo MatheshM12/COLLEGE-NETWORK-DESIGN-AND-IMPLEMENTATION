@@ -20,4 +20,4 @@ ensure that the network functions seamlessly under various conditions and suppor
 organization’s goals for security, scalability, and adaptability. This case study provides 
 a valuable framework for deploying resilient and efficient network solutions that 
 support long-term business objectives. [CN REPORT MATHESH.pdf](https://github.com/user-attachments/files/19123134/CN.REPORT.MATHESH.pdf)
-[CN REPORT MATHESH.pdf](https://github.com/user-attachments/files/19123128/CN.REPORT.MATHESH.pdf)
+
